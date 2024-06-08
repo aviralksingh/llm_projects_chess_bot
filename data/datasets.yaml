@@ -1,0 +1,7 @@
+kaggle_credentials:
+  username: your_kaggle_username
+  key: your_kaggle_api_key
+
+datasets:
+  - dataset: https://www.kaggle.com/datasets/milesh1/35-million-chess-games/data
+    destination: ./datasets/35-million-chess-games
