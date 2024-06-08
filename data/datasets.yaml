@@ -3,5 +3,5 @@ kaggle_credentials:
   key: your_kaggle_api_key
 
 datasets:
-  - dataset: https://www.kaggle.com/datasets/milesh1/35-million-chess-games/data
+  - dataset: milesh1/35-million-chess-games
     destination: ./datasets/35-million-chess-games
